@@ -1,0 +1,18 @@
+{
+  "openai_config": {
+    "prompts_path": "./openai_api/prompts.txt",
+    "openai_api_key": "sk-***",
+    "openai_api_url": "https://***",
+    "cosplay_role": "爱莉希雅"
+  },
+    "vits_config": {
+      "vits_api_url": "http://127.0.0.1:23456/voice/vits",
+      "vits_wav_path": "./vits_api/WAV/test.wav",
+      "vits_id": "255",
+      "vits_lang": "zh",
+      "vits_length": "1.4"
+    },
+
+  "voice_wav_path": "./voice_recognition/WAV_VOICE/voice.wav",
+  "input_mode": "text"
+}

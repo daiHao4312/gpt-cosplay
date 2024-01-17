@@ -78,3 +78,4 @@ keyboard==0.13.5
 ## 启动项目
 直接运行main.py即可
 
+# gpt-cosplay

@@ -73,10 +73,7 @@ SpeechRecognition==3.9.0
 keyboard==0.13.5
 ```
 3. 如果还差什么包，自己去pip安装即可
-4. 项目本身包含虚拟环境，可以直接使用
 
 ## 启动项目
 直接运行main.py即可
 
-# gpt-cosplay
-# gpt-cosplay
